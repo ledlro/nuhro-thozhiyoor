@@ -2,6 +2,7 @@ backend:
   name: github
   repo: ledlro-io/nuhro-thozhiyoor
   branch: main  # or master, whichever your default branch is
+  app_id: $Ov23ligVTkbJekPXvgVr
 
 media_folder: "public/uploads"
 public_folder: "/uploads"
